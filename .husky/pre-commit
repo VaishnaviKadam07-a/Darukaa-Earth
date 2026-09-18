@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "Running frontend lint-staged..."
+(cd frontend && npx lint-staged)
+
+echo "Running backend checks..."
+(cd backend && ruff check . && black --check .)

@@ -1,0 +1,28 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: #f5f7f5;
+  color: #1a2e1a;
+}
+.app-shell { display: flex; flex-direction: column; min-height: 100vh; }
+.topbar {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 12px 24px; background: #1a3c2e; color: white;
+}
+.brand { color: white; text-decoration: none; font-weight: 700; font-size: 1.1rem; }
+.btn-link { background: none; border: 1px solid white; color: white; padding: 6px 12px; border-radius: 6px; cursor: pointer; }
+.content { flex: 1; padding: 24px; max-width: 1100px; margin: 0 auto; width: 100%; }
+.auth-form { max-width: 360px; margin: 60px auto; display: flex; flex-direction: column; gap: 12px; }
+.auth-form input { padding: 10px; border: 1px solid #ccc; border-radius: 6px; }
+.auth-form button { padding: 10px; background: #1a7a4c; color: white; border: none; border-radius: 6px; cursor: pointer; }
+.error-text { color: #c0392b; font-size: 0.9rem; }
+.project-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; margin-top: 16px; }
+.project-card { background: white; border-radius: 10px; padding: 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); text-decoration: none; color: inherit; }
+.project-card h3 { margin: 0 0 4px; }
+.badge { display: inline-block; font-size: 0.75rem; padding: 2px 8px; border-radius: 12px; background: #e0f2e9; color: #1a7a4c; margin-top: 8px; }
+.map-container { width: 100%; height: 480px; border-radius: 10px; overflow: hidden; margin-top: 16px; }
+.site-list { display: flex; flex-direction: column; gap: 8px; margin-top: 16px; }
+.site-row { display: flex; justify-content: space-between; padding: 10px 14px; background: white; border-radius: 8px; text-decoration: none; color: inherit; }
+.chart-block { background: white; padding: 16px; border-radius: 10px; margin-top: 16px; }
+.toolbar { display: flex; gap: 8px; align-items: center; margin-top: 12px; }
