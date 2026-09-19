@@ -1,0 +1,772 @@
+{
+  "type": "FeatureCollection",
+  "name": "darukaa_demo_sites",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 1,
+        "project_id": 1,
+        "name": "Mulshi Forest Site",
+        "state": "Maharashtra",
+        "district": "Pune",
+        "area_hectares": 42.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.505,
+              18.468
+            ],
+            [
+              73.535,
+              18.468
+            ],
+            [
+              73.535,
+              18.492
+            ],
+            [
+              73.505,
+              18.492
+            ],
+            [
+              73.505,
+              18.468
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 2,
+        "project_id": 1,
+        "name": "Tamhini Ecological Site",
+        "state": "Maharashtra",
+        "district": "Pune",
+        "area_hectares": 35.6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.465,
+              18.408
+            ],
+            [
+              73.495,
+              18.408
+            ],
+            [
+              73.495,
+              18.432000000000002
+            ],
+            [
+              73.465,
+              18.432000000000002
+            ],
+            [
+              73.465,
+              18.408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 3,
+        "project_id": 1,
+        "name": "Bhimashankar Habitat Site",
+        "state": "Maharashtra",
+        "district": "Pune",
+        "area_hectares": 51.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.535,
+              19.058
+            ],
+            [
+              73.565,
+              19.058
+            ],
+            [
+              73.565,
+              19.082
+            ],
+            [
+              73.535,
+              19.082
+            ],
+            [
+              73.535,
+              19.058
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 4,
+        "project_id": 1,
+        "name": "Amboli Forest Site",
+        "state": "Maharashtra",
+        "district": "Sindhudurg",
+        "area_hectares": 64.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.985,
+              15.948
+            ],
+            [
+              74.015,
+              15.948
+            ],
+            [
+              74.015,
+              15.972000000000001
+            ],
+            [
+              73.985,
+              15.972000000000001
+            ],
+            [
+              73.985,
+              15.948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 5,
+        "project_id": 1,
+        "name": "Chorla Biodiversity Site",
+        "state": "Goa",
+        "district": "North Goa",
+        "area_hectares": 47.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.085,
+              15.618
+            ],
+            [
+              74.115,
+              15.618
+            ],
+            [
+              74.115,
+              15.642000000000001
+            ],
+            [
+              74.085,
+              15.642000000000001
+            ],
+            [
+              74.085,
+              15.618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 6,
+        "project_id": 1,
+        "name": "Dandeli Edge Site",
+        "state": "Karnataka",
+        "district": "Uttara Kannada",
+        "area_hectares": 72.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.605,
+              15.238
+            ],
+            [
+              74.635,
+              15.238
+            ],
+            [
+              74.635,
+              15.262
+            ],
+            [
+              74.605,
+              15.262
+            ],
+            [
+              74.605,
+              15.238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 7,
+        "project_id": 1,
+        "name": "Wayanad Forest Site",
+        "state": "Kerala",
+        "district": "Wayanad",
+        "area_hectares": 58.7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.065,
+              11.597999999999999
+            ],
+            [
+              76.095,
+              11.597999999999999
+            ],
+            [
+              76.095,
+              11.622
+            ],
+            [
+              76.065,
+              11.622
+            ],
+            [
+              76.065,
+              11.597999999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 8,
+        "project_id": 2,
+        "name": "Satara Reforestation Site",
+        "state": "Maharashtra",
+        "district": "Satara",
+        "area_hectares": 39.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.975,
+              17.668
+            ],
+            [
+              74.005,
+              17.668
+            ],
+            [
+              74.005,
+              17.692
+            ],
+            [
+              73.975,
+              17.692
+            ],
+            [
+              73.975,
+              17.668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 9,
+        "project_id": 2,
+        "name": "Mahabaleshwar Green Site",
+        "state": "Maharashtra",
+        "district": "Satara",
+        "area_hectares": 44.1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.645,
+              17.908
+            ],
+            [
+              73.675,
+              17.908
+            ],
+            [
+              73.675,
+              17.932000000000002
+            ],
+            [
+              73.645,
+              17.932000000000002
+            ],
+            [
+              73.645,
+              17.908
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 10,
+        "project_id": 2,
+        "name": "Nashik Regeneration Site",
+        "state": "Maharashtra",
+        "district": "Nashik",
+        "area_hectares": 31.7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.765,
+              19.988
+            ],
+            [
+              73.795,
+              19.988
+            ],
+            [
+              73.795,
+              20.012
+            ],
+            [
+              73.765,
+              20.012
+            ],
+            [
+              73.765,
+              19.988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 11,
+        "project_id": 2,
+        "name": "Bhor Restoration Site",
+        "state": "Maharashtra",
+        "district": "Pune",
+        "area_hectares": 36.9
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.835,
+              18.137999999999998
+            ],
+            [
+              73.865,
+              18.137999999999998
+            ],
+            [
+              73.865,
+              18.162
+            ],
+            [
+              73.835,
+              18.162
+            ],
+            [
+              73.835,
+              18.137999999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 12,
+        "project_id": 2,
+        "name": "Panchgani Recovery Site",
+        "state": "Maharashtra",
+        "district": "Satara",
+        "area_hectares": 28.6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.795,
+              17.908
+            ],
+            [
+              73.825,
+              17.908
+            ],
+            [
+              73.825,
+              17.932000000000002
+            ],
+            [
+              73.795,
+              17.932000000000002
+            ],
+            [
+              73.795,
+              17.908
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 13,
+        "project_id": 3,
+        "name": "Ratnagiri Coastal Forest",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "area_hectares": 46.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.295,
+              16.977999999999998
+            ],
+            [
+              73.325,
+              16.977999999999998
+            ],
+            [
+              73.325,
+              17.002
+            ],
+            [
+              73.295,
+              17.002
+            ],
+            [
+              73.295,
+              16.977999999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 14,
+        "project_id": 3,
+        "name": "Raigad Habitat Corridor",
+        "state": "Maharashtra",
+        "district": "Raigad",
+        "area_hectares": 53.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.185,
+              18.508
+            ],
+            [
+              73.215,
+              18.508
+            ],
+            [
+              73.215,
+              18.532
+            ],
+            [
+              73.185,
+              18.532
+            ],
+            [
+              73.185,
+              18.508
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 15,
+        "project_id": 3,
+        "name": "Sindhudurg Corridor",
+        "state": "Maharashtra",
+        "district": "Sindhudurg",
+        "area_hectares": 61.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.655,
+              16.088
+            ],
+            [
+              73.685,
+              16.088
+            ],
+            [
+              73.685,
+              16.112000000000002
+            ],
+            [
+              73.655,
+              16.112000000000002
+            ],
+            [
+              73.655,
+              16.088
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 16,
+        "project_id": 3,
+        "name": "Goa Western Corridor",
+        "state": "Goa",
+        "district": "South Goa",
+        "area_hectares": 49.7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.135,
+              15.238
+            ],
+            [
+              74.165,
+              15.238
+            ],
+            [
+              74.165,
+              15.262
+            ],
+            [
+              74.135,
+              15.262
+            ],
+            [
+              74.135,
+              15.238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 17,
+        "project_id": 3,
+        "name": "Karwar Habitat Site",
+        "state": "Karnataka",
+        "district": "Uttara Kannada",
+        "area_hectares": 55.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.115,
+              14.808
+            ],
+            [
+              74.145,
+              14.808
+            ],
+            [
+              74.145,
+              14.832
+            ],
+            [
+              74.115,
+              14.832
+            ],
+            [
+              74.115,
+              14.808
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 18,
+        "project_id": 3,
+        "name": "Agumbe Biodiversity Site",
+        "state": "Karnataka",
+        "district": "Shivamogga",
+        "area_hectares": 67.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.075,
+              13.498
+            ],
+            [
+              75.105,
+              13.498
+            ],
+            [
+              75.105,
+              13.522
+            ],
+            [
+              75.075,
+              13.522
+            ],
+            [
+              75.075,
+              13.498
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 19,
+        "project_id": 3,
+        "name": "Nilgiri Transition Site",
+        "state": "Tamil Nadu",
+        "district": "Nilgiris",
+        "area_hectares": 73.6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.685,
+              11.398
+            ],
+            [
+              76.715,
+              11.398
+            ],
+            [
+              76.715,
+              11.422
+            ],
+            [
+              76.685,
+              11.422
+            ],
+            [
+              76.685,
+              11.398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": 20,
+        "project_id": 3,
+        "name": "Coorg Habitat Site",
+        "state": "Karnataka",
+        "district": "Kodagu",
+        "area_hectares": 62.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.725,
+              12.408
+            ],
+            [
+              75.755,
+              12.408
+            ],
+            [
+              75.755,
+              12.432
+            ],
+            [
+              75.725,
+              12.432
+            ],
+            [
+              75.725,
+              12.408
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

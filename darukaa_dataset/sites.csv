@@ -1,0 +1,21 @@
+site_id,project_id,name,state,district,area_hectares,latitude,longitude,srid
+1,1,Mulshi Forest Site,Maharashtra,Pune,42.8,18.48,73.52,EPSG:4326
+2,1,Tamhini Ecological Site,Maharashtra,Pune,35.6,18.42,73.48,EPSG:4326
+3,1,Bhimashankar Habitat Site,Maharashtra,Pune,51.3,19.07,73.55,EPSG:4326
+4,1,Amboli Forest Site,Maharashtra,Sindhudurg,64.2,15.96,74.0,EPSG:4326
+5,1,Chorla Biodiversity Site,Goa,North Goa,47.5,15.63,74.1,EPSG:4326
+6,1,Dandeli Edge Site,Karnataka,Uttara Kannada,72.4,15.25,74.62,EPSG:4326
+7,1,Wayanad Forest Site,Kerala,Wayanad,58.7,11.61,76.08,EPSG:4326
+8,2,Satara Reforestation Site,Maharashtra,Satara,39.4,17.68,73.99,EPSG:4326
+9,2,Mahabaleshwar Green Site,Maharashtra,Satara,44.1,17.92,73.66,EPSG:4326
+10,2,Nashik Regeneration Site,Maharashtra,Nashik,31.7,20.0,73.78,EPSG:4326
+11,2,Bhor Restoration Site,Maharashtra,Pune,36.9,18.15,73.85,EPSG:4326
+12,2,Panchgani Recovery Site,Maharashtra,Satara,28.6,17.92,73.81,EPSG:4326
+13,3,Ratnagiri Coastal Forest,Maharashtra,Ratnagiri,46.8,16.99,73.31,EPSG:4326
+14,3,Raigad Habitat Corridor,Maharashtra,Raigad,53.5,18.52,73.2,EPSG:4326
+15,3,Sindhudurg Corridor,Maharashtra,Sindhudurg,61.2,16.1,73.67,EPSG:4326
+16,3,Goa Western Corridor,Goa,South Goa,49.7,15.25,74.15,EPSG:4326
+17,3,Karwar Habitat Site,Karnataka,Uttara Kannada,55.8,14.82,74.13,EPSG:4326
+18,3,Agumbe Biodiversity Site,Karnataka,Shivamogga,67.3,13.51,75.09,EPSG:4326
+19,3,Nilgiri Transition Site,Tamil Nadu,Nilgiris,73.6,11.41,76.7,EPSG:4326
+20,3,Coorg Habitat Site,Karnataka,Kodagu,62.5,12.42,75.74,EPSG:4326

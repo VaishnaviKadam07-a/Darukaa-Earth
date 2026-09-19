@@ -1,0 +1,2 @@
+user_id,name,email,password_hash,created_at
+1,Admin User,admin@darukaa-demo.local,<SET_PASSWORD_HASH>,2026-01-01
